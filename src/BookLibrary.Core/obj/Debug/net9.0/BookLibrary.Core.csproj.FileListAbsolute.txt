@@ -1,0 +1,14 @@
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\bin\Debug\net9.0\BookLibrary.Core.deps.json
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\bin\Debug\net9.0\BookLibrary.Core.dll
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\bin\Debug\net9.0\BookLibrary.Core.pdb
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.csproj.AssemblyReference.cache
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.AssemblyInfoInputs.cache
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.AssemblyInfo.cs
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.csproj.CoreCompileInputs.cache
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.dll
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\refint\BookLibrary.Core.dll
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.pdb
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\ref\BookLibrary.Core.dll
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\bin\Debug\net9.0\BookLibrary.Core.runtimeconfig.json
+C:\Users\JustDawee\Desktop\dotnet_practice\1_BookLibrary\src\BookLibrary.Core\obj\Debug\net9.0\BookLibrary.Core.genruntimeconfig.cache
